@@ -1,0 +1,11 @@
+*.vpd csrc
+*.log
+*.key
+*.vdb
+simv*
+DVEfiles
+coverage
+*.fsdb
+verdiLog
+*.rc
+*.conf
